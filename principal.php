@@ -1,9 +1,12 @@
 <?php
 ?>
 <div>
-        <main>
+        <main class="fundo">
             <section id="bem-vindos">
-                <img align="right" src="lilo&stitch.jpg" style="width: 250px; height: auto;">
+                <section class="imagemprincipal">
+                <img align="right" src="imagens/lilo&stitch.jpg" style="width: 250px; height: auto;">
+                </section>
+                
                 <h2>Bem-vindo ao nosso site dedicado ao maravilhoso mundo de Lilo & Stitch!</h2>
 
                 <p>Aqui, você poderá mergulhar em tudo o que envolve essa adorada franquia da Disney, 

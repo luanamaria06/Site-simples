@@ -4,11 +4,15 @@ body {
     padding: 0;
     font-size: 16px;
     font-weight: bold;
+    background-image: url('imagens/lilo&stitch_fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
 }
 
 header {
-    background-color: #4f7fe6;
-    color: white;
+    background-color: #fcfcfc75;
+    color: rgb(0, 0, 0);
     padding: 10px 20px;
 }
 
@@ -16,7 +20,7 @@ header a{
     letter-spacing: 0.5px;
     padding: 0 10px;
     position: relative;
-    color: white;
+    color: rgb(0, 0, 0);
     text-shadow: 0px 1px 1px black;
     text-align: center;
     padding: 14px 20px;
@@ -33,21 +37,41 @@ nav ul li {
     display: inline;
     margin-right: 15px;
 }
-
+.fundo{
+    background-color: #fcfcfc75;
+} 
 main {
     padding: 20px;
 }
 img {
     border-radius: 10%;
+    margin: 15px;
+}
+
+.filmes{
+    display:flex;
+}
+.artes1{
+        display: flex;
+        padding: 0 15px;
+        text-align: center;
+        margin: 10px;
+}
+
+.artes2{
+    display: flex;
+    padding: 0 15px;
+    text-align: center;
     margin: 10px;
 }
+
 footer {
-    background-color: #732ad2;
+    background-color: #732ad299;
     text-align: center;
     padding: 10px 0;
-    position: fixed;
     bottom: 0;
     width: 100%;
+    letter-spacing: 0.5px;
 }
 
 footer a{

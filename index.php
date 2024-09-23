@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu Site</title>
-    <link rel="shortcut icon" href="stitch_icon.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="imagens/stitch_icon.jpg" type="image/x-icon">
     <link rel="stylesheet" href="visual_do_site.css">
 </head>
 <body>
