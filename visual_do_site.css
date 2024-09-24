@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
     font-size: 16px;
@@ -7,21 +7,25 @@ body {
     background-image: url('imagens/lilo&stitch_fundo.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed; 
-    background-size: 100% 100%;
+    background-size: 100% 100%; 
 }
 
 header {
     background-color: #fcfcfc75;
-    color: rgb(0, 0, 0);
+    color: #8b77b6;
     padding: 10px 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
 }
 
 header a{
     letter-spacing: 0.5px;
     padding: 0 10px;
     position: relative;
-    color: rgb(0, 0, 0);
-    text-shadow: 0px 1px 1px black;
+    color: #8b77b6;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -37,12 +41,17 @@ nav ul li {
     display: inline;
     margin-right: 15px;
 }
-.fundo{
-    background-color: #fcfcfc75;
-} 
+
 main {
-    padding: 20px;
+    margin: 20px;
+    padding: 15px;
+    background-color: #fcfcfc75;
+    border-radius: 10px;
+    color: #8b77b6;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+
 }
+
 img {
     border-radius: 10%;
     margin: 15px;
@@ -50,12 +59,31 @@ img {
 
 .filmes{
     display:flex;
+    background-color: #fcfcfc75;
+    margin: 20px;
+    border-radius: 10px;
+    color: #8b77b6;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
 }
+
+.legenda_galeria{
+    background-color: #fcfcfc75;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    color: #8b77b6;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+}
+
 .artes1{
-        display: flex;
-        padding: 0 15px;
-        text-align: center;
-        margin: 10px;
+    display: flex;
+    padding: 0 15px;
+    text-align: center;
+    margin: 10px;
+
 }
 
 .artes2{
@@ -65,26 +93,60 @@ img {
     margin: 10px;
 }
 
+.formulario{
+background-color: #fcfcfc75;
+padding: 30px;
+border-radius: 10px;
+margin: 20px;
+color: #8b77b6;
+text-shadow: 0px 1px 1px rgb(0, 0, 0);
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea{
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: #ffe1c4af;
+}
+
+
+form input[type="submit"]{
+    background-color: #ffe1c4ab;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #8b77b6;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+}
+
 footer {
-    background-color: #732ad299;
+    background-color: #fcfcfc75;
     text-align: center;
     padding: 10px 0;
     bottom: 0;
     margin-top: 55px;
     width: 100%;
     letter-spacing: 0.5px;
+    border-radius: 10px;
 }
 
 footer a{
     letter-spacing: 0.5px;
     padding: 0 10px;
     position: relative;
-    color: white;
-    text-shadow: 0px 1px 1px black;
+    color: #8b77b6;
+    text-shadow: 0px 1px 1px rgb(0, 0, 0);
     text-align: center;
     padding: 14px 20px;
     bottom: 0;
     text-decoration: none;
+    font-size: 25px;
 }
 
 footer ul {
