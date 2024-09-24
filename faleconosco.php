@@ -12,7 +12,7 @@
         <input type="email" name="email" required><br><br>
 
         Mensagem:<br>
-        <textarea name="mensagem" value="mensagem"></textarea><br><br>
+        <textarea name="mensagem" value="mensagem" required></textarea><br><br>
         
         <input type="submit" value="Enviar">
     </form>
