@@ -16,7 +16,7 @@ header {
     padding: 10px 20px;
     border-radius: 10px;
     margin: 20px;
-    text-shadow: 2px 2px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 header a{
@@ -24,7 +24,7 @@ header a{
     padding: 0 10px;
     position: relative;
     color: #8b77b6;
-    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
@@ -51,8 +51,12 @@ main {
 
 }
 
-h2{
-    text-shadow: 2px 2px rgb(0, 0, 0);
+p, h3{
+    padding: 10px;
+}
+
+h2, h3, p{
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 img {
@@ -78,7 +82,7 @@ img {
     cursor: pointer;
     margin: 10px;
     color: #8b77b6;
-    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 .artes1{
@@ -96,13 +100,22 @@ img {
     margin: 10px;
 }
 
+.quemsomos{
+    background-color: #fcfcfc1b;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 20px;
+    color: #8b77b6;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
 .formulario{
 background-color: #fcfcfc1b;
 padding: 30px;
 border-radius: 10px;
 margin: 20px;
 color: #8b77b6;
-text-shadow: 0px 1px 1px rgb(0, 0, 0);
+text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 form input[type="text"],
@@ -121,12 +134,12 @@ form input[type="submit"]{
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color:#fcfcfc53;
     border: none;
-    padding: 10px 20px;
+    padding: 15px 15px;
     font-size: 1em;
     border-radius: 5px;
     cursor: pointer;
     color: #8b77b6;
-    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 footer {
@@ -145,7 +158,7 @@ footer a{
     padding: 0 10px;
     position: relative;
     color: #8b77b6;
-    text-shadow: 2px 2px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
     text-align: center;
     padding: 14px 20px;
     bottom: 0;
