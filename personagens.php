@@ -1,7 +1,7 @@
 <?php 
 ?>
 
-<div class="personagem1">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_lilo.jpeg" style="width: 250px; height:auto;">
     </section>
