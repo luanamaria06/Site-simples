@@ -109,13 +109,22 @@ img {
     text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
+.personagens{
+    display:flex;
+    background-color: #fcfcfc1b;
+    margin: 20px;
+    border-radius: 10px;
+    color: #8b77b6;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+
 .formulario{
-background-color: #fcfcfc1b;
-padding: 30px;
-border-radius: 10px;
-margin: 20px;
-color: #8b77b6;
-text-shadow: 2px 2px 2px rgb(0, 0, 0);
+    background-color: #fcfcfc1b;
+    padding: 30px;
+    border-radius: 10px;
+    margin: 20px;
+    color: #8b77b6;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 form input[type="text"],

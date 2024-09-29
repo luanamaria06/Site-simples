@@ -1,6 +1,6 @@
 <?php 
 ?>
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_lilo.jpeg" style="width: 250px; height:auto;">
     </section>
@@ -19,7 +19,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_stitch.jpeg" style="width: 250px; height:auto;">
     </section>
@@ -37,7 +37,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_nani.png" style="width: 250px; height:auto;">
     </section>
@@ -55,7 +55,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_Jumba Jookiba.png" style="width: 250px; height:auto;">
     </section>
@@ -72,7 +72,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_pleakley.png" style="width: 250px; height:auto;">
     </section>
@@ -89,7 +89,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/perosnagem_cobra bubbles.png" style="width: 250px; height:auto;">
     </section>
@@ -106,7 +106,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_David.png" style="width: 250px; height:auto;">
     </section>
@@ -123,7 +123,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_mertle edmonds.png" style="width: 250px; height:auto;">
     </section>
@@ -142,7 +142,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_gantu.png" style="width: 250px; height:auto;">
     </section>
@@ -160,7 +160,7 @@
     </section>
 </div>
 
-<div class="filmes">
+<div class="personagens">
     <section >
         <img aling="left" src="imagens/personagem_grand councilwoman.png" style="width: 250px; height:auto;">
     </section>
