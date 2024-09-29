@@ -47,7 +47,7 @@ main {
     background-color: #fcfcfc1b;
     border-radius: 10px;
     color: #8b77b6;
-    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 
 }
 
@@ -70,7 +70,7 @@ img {
     margin: 20px;
     border-radius: 10px;
     color: #8b77b6;
-    text-shadow: 0px 1px 1px rgb(0, 0, 0);
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
 }
 
 .legenda_galeria{
